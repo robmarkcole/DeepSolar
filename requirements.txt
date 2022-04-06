@@ -1,0 +1,13 @@
+flask
+tensorflow
+tool
+pyproj
+keras
+opencv-python
+owslib
+pillow
+tqdm
+matplotlib
+pandas
+folium
+geopandas
